@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Only works with Deluge v1.3.x
+
 torrentid=$1
 torrentname=$2
 torrentpath=$3
